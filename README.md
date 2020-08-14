@@ -2,7 +2,7 @@
 # :rocket: How to run
 ```bash
 # Clone Repository
-$ git clone https://github.com/RafaelGoulartB/Proffy.git
+$ git clone https://github.com/antoniofern/Proffy.git
 ```
 ### 📦 Run API
 
