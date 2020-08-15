@@ -20,7 +20,7 @@
 
 <div align="center">
   <sub>The NLW #2 project. Built with 💜 by
-    <a href="https://github.com/antoniofer">Antonio Fernandes</a>
+    <a href="https://github.com/antoniofern">Antonio Fernandes</a>
   </sub>
 </div>
 
