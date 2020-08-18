@@ -1,6 +1,8 @@
-# Proffy
+<p align="center">
+   <img src="./.github/logo.png" alt="Proffy" width="280"/>
+</p>
 
-<p align="center">	
+<p align="center">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/antoniofern/Proffy?color=%238257e5">
 
@@ -25,24 +27,27 @@
 </div>
 
 # :computer: Technologies
+
 This project was made using the follow technologies:
 
-* [Typescript](https://www.typescriptlang.org/)      
-* [React](https://reactjs.org/) 
-* [React Native](https://reactnative.dev/) 
-* [Expo](https://expo.io/)       
-* [Express](https://expressjs.com/) 
+- [Typescript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
+- [Express](https://expressjs.com/)
 
 # :rocket: Features
 
-* Website to sign up teachers and students.
-* App to connect teachers and students.
+- Website to sign up teachers and students.
+- App to connect teachers and students.
 
 # :construction_worker: How to run
+
 ```bash
 # Clone Repository
 $ git clone https://github.com/antoniofern/Proffy.git
 ```
+
 ### 📦 Run API
 
 ```bash
@@ -55,6 +60,7 @@ $ yarn install
 # Run Aplication
 $ yarn start
 ```
+
 Access API at http://localhost:3333/
 
 ### 💻 Run Web Project
@@ -69,9 +75,11 @@ $ yarn install
 # Run Aplication
 $ yarn start
 ```
+
 Go to http://localhost:3000/ to see the result.
 
 ### 📱 Run Mobile Project
+
 To run the mobile project you need a cellphone with the app [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instaled or a emulator android/ios.
 <br />
 After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
@@ -86,6 +94,7 @@ $ yarn install
 # Run Aplication
 $ yarn start
 ```
+
 After read the QRCode with [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or run on emulator.
 
 # :bug: Issues
